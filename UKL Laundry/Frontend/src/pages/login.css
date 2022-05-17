@@ -1,0 +1,17 @@
+.login {
+    height: 98vh;
+    font-family: "Raleway", sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1622473590925-e3616c0a41bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGxhdW5kcnl8ZW58MHx8MHx8&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: 600px 750px;
+  background-attachment: fixed;
+  background-position: right bottom; 
+}
+
+img {
+    margin-left: -40px;
+}
+.form {
+    padding: 80px 80px 80px 150px ;
+    background-color: white;
+}
